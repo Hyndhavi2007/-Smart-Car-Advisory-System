@@ -1,0 +1,13 @@
+# Ignore executables
+CarAdvisor
+*.out
+*.exe
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore macOS files
+*.plist
+
+# Ignore YAML (optional, only if you don't need it)
+*.yml
