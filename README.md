@@ -5,7 +5,7 @@ CarAdvisor is a C++ program that helps people make smarter choices when they're 
 
 Buying a car means weighing a lot of things—price, your budget, and the total cost over time. CarAdvisor steps in to handle some of that math for you and gives you straightforward advice to make the whole process easier.
 
-----------Purpose------------
+----------Goal------------
 The goal of this project is to assist a car buyer in understanding:
 
 The estimated cost of a car
